@@ -1,0 +1,17 @@
+\Nick espai projectiu
+\Definicio Espai projectiu
+	Sigui k un cos
+	Sigui E un k-espai vectorial
+	Sigui 'P un conjunt
+	Donat < vec > = < vec >
+		EQUIVALENT λ ∈ 'R\{0}:
+			vec = λ vec
+	Sigui π una aplicació
+		π: E\{→o} -> 'P:
+			- π és exhaustiu
+			- π(→u) = π(→v) ⇔ <→u> = <→v>
+	≡ ( E, π, 'P )
+
+\Exemple espai projectiu
+1
+	Considerem un punt 0, d'un pla afí
